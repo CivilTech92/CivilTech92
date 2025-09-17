@@ -1,16 +1,35 @@
 ## Hi there 👋
 
-<!--
-**CivilTech92/CivilTech92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+public class LemarProfile {
 
-Here are some ideas to get you started:
+    private final String name = "Lemar S.";
+    private final String[] specialties = {
+        "Backend Engineering",
+        "Full-Stack Development",
+        "Cloud Infrastructure",
+        "DevOps Automation"
+    };
+    private final String[] toolsAndTech = {
+        "Java", "Spring Boot", "React", "Node.js", "AWS", "Docker", "Kubernetes",
+        "Terraform", "Jenkins", "PostgreSQL", "Oracle", "MongoDB"
+    };
+    private final String[] certifications = {
+        "AWS Certified Solutions Architect – Associate",
+        "Oracle Certified Java SE 17 Developer"
+    };
+    private final String[] interests = {
+        "Building scalable systems",
+        "Modernizing legacy code",
+        "Automating deployments",
+        "Continuous learning"
+    };
+    private final String funFact = "Enjoys tackling tough bugs, streamlining workflows, and collaborating in diverse teams.";
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    public void greet() {
+        System.out.println("Hello! I'm Lemar, a software engineer passionate about creating robust solutions.");
+    }
+}
+```
+
+_Thanks for visiting my GitHub! Stay curious and keep building._
