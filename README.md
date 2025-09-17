@@ -1,7 +1,5 @@
 ## Hi there ğŸ‘‹
 
-## í±¨â€í²» Coding Vibes
-
 ![Coding Animation](gifs/FuturisticCoder.gif)
 
 
