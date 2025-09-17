@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 ```java
-public class LemarProfile {
+public class MeMyselfAndI {
 
-    private final String name = "Lemar S.";
+    private final String name = "Lemar";
     private final String[] specialties = {
         "Backend Engineering",
         "Full-Stack Development",
@@ -27,7 +27,7 @@ public class LemarProfile {
     private final String funFact = "Enjoys tackling tough bugs, streamlining workflows, and collaborating in diverse teams.";
 
     public void greet() {
-        System.out.println("Hello! I'm Lemar, a software engineer passionate about creating robust solutions.");
+        System.out.println("Hi there! I'm Lemar, a software engineer extremely passionate about creating robust solutions.");
     }
 }
 ```
