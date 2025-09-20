@@ -33,4 +33,4 @@ public class MeMyselfAndI {
 }
 ```
 
-_Thanks for visiting my GitHub! Stay curious and keep building._
+_Thanks for visiting my GitHub!_
